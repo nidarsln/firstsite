@@ -24,7 +24,8 @@ opacity: 1;
 }
 
 .button {
-	height: 50px;
+	height: 85px;
+	width: 85px;
     margin: 10px;
     background-color: #3d5075
     color: #0D0630;
