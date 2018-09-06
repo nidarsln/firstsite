@@ -6,11 +6,24 @@
 }
 
 .myclass {
-	width: 100%;
+	width: 350px;
+	height: 250px;
+	margin: 15px;
+	opacity: 0.5;
+}
+
+.myclass:hover {
+opacity: 1;
 }
 
 .headingbox {
 	background-color: #ccc6c6;
 	height: 100%;
 	padding-top: 20px;
+}
+
+.button {
+	height: 30px;
+    margin: 10px;
+    background-color: lightblue;
 }
