@@ -1,0 +1,16 @@
+.heading {
+	color: blue;
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+.myclass {
+	width: 100%;
+}
+
+.headingbox {
+	background-color: grey;
+	    height: 100%;
+    padding-top: 20px;
+}
