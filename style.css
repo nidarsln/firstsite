@@ -14,17 +14,17 @@
 
 .myclass:hover {
 opacity: 1;
-	
 }
+
 
 .headingbox {
 	background-color: #ccc6c6;
-	height: 100%;
-	padding-top: 20px;
+	    height: 100%;
+    padding-top: 20px;
 }
 
 .button {
-	height: 30px;
-	margin: 10px;
-	background-color: lightblue;
+	height: 50px;
+    margin: 10px;
+    background-color: lightblue;
 }
