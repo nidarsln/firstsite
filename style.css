@@ -13,24 +13,24 @@
 }
 
 .myclass:hover {
-opacity: 1;
+	opacity: 1;
 }
 
 
 .headingbox {
 	background-color: #3d5075
-	    height: 100%;
-    padding-top: 20px;
+	height: 100%;
+	padding-top: 20px;
 }
 
 .button {
 	height: 85px;
 	width: 85px;
-    margin: 10px;
-    background-color: #3d5075
-    color: #0D0630;
-    border-radius: 5px;
-    border: none;
+        margin: 10px;
+        background-color: #3d5075
+        color: #0D0630;
+        border-radius: 5px;
+        border: none;
 }
 
 .buttonbox {
@@ -44,5 +44,5 @@ opacity: 1;
 }
 
 body {
-background-color: #8BBEB2;
+        background-color: #8BBEB2;
 }
