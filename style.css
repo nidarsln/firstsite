@@ -1,5 +1,5 @@
 .heading {
-	color: blue;
+	color: #0D0630;
 	font-size: 25px;
 	text-align: center;
 	
@@ -18,7 +18,7 @@ opacity: 1;
 
 
 .headingbox {
-	background-color: #ccc6c6;
+	background-color: #384E77;
 	    height: 100%;
     padding-top: 20px;
 }
@@ -26,7 +26,8 @@ opacity: 1;
 .button {
 	height: 50px;
     margin: 10px;
-    background-color: lightblue;
+    background-color: #384E77;
+    color: #0D0630;
     border-radius: 5px;
     border: none;
 }
@@ -39,4 +40,8 @@ opacity: 1;
 
 .imagebox {
 	float: left;
+}
+
+body {
+	background-color: #8BBEB2;
 }
