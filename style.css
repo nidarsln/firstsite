@@ -27,4 +27,16 @@ opacity: 1;
 	height: 50px;
     margin: 10px;
     background-color: lightblue;
+    border-radius: 5px;
+    border: none;
+}
+
+.buttonbox {
+	float: left;
+	width: 100%;
+
+}
+
+.imagebox {
+	float: left;
 }
